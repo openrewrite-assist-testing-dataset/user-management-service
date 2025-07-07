@@ -1,0 +1,13 @@
+com/example/usermanagement/core/User.java
+ com.example.usermanagement.core.User
+com/example/usermanagement/auth/BasicAuthenticator.java
+ com.example.usermanagement.auth.BasicAuthenticator
+com/example/usermanagement/db/UserDAO.java
+ com.example.usermanagement.db.UserDAO
+com/example/usermanagement/api/UserResource.java
+ com.example.usermanagement.api.UserResource
+com/example/usermanagement/UserManagementConfiguration.java
+ com.example.usermanagement.UserManagementConfiguration
+com/example/usermanagement/UserManagementApplication.java
+ com.example.usermanagement.UserManagementApplication
+ com.example.usermanagement.UserManagementApplication$1
