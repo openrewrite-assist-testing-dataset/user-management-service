@@ -1,2 +1,0 @@
-com/example/usermanagement/UserResourceTest.java
- com.example.usermanagement.UserResourceTest
