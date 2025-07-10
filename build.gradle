@@ -47,12 +47,13 @@ dependencies {
 }
 
 application {
-    mainClassName = 'com.example.usermanagement.UserManagementApplication'
+    mainClass = 'com.example.usermanagement.UserManagementApplication'
 }
 
 shadowJar {
     archiveClassifier = 'fat'
     mergeServiceFiles()
+    mainClassName = 'com.example.usermanagement.UserManagementApplication'
 }
 
 test {

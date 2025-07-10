@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.usermanagement.UserResourceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-07-07T21:23:01" hostname="glebmish-PC" time="0.002">
+<testsuite name="com.example.usermanagement.UserResourceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-07-10T16:38:36" hostname="glebmish-PC" time="0.004">
   <properties/>
-  <testcase name="testUserGettersAndSetters" classname="com.example.usermanagement.UserResourceTest" time="0.002"/>
+  <testcase name="testUserGettersAndSetters" classname="com.example.usermanagement.UserResourceTest" time="0.003"/>
   <testcase name="testUserConstructorWithParameters" classname="com.example.usermanagement.UserResourceTest" time="0.0"/>
   <testcase name="testUserDefaultConstructor" classname="com.example.usermanagement.UserResourceTest" time="0.0"/>
   <testcase name="testUserPrincipalName" classname="com.example.usermanagement.UserResourceTest" time="0.0"/>
