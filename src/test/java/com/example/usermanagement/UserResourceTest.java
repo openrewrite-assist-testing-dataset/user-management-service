@@ -1,16 +1,16 @@
 package com.example.usermanagement;
 
 import com.example.usermanagement.core.User;
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class UserResourceTest {
 
     private User testUser;
 
-    @Before
+    @BeforeEach
     public void setUp() {
         testUser = new User("testuser", "test@example.com", "password123");
         testUser.setId(1L);
